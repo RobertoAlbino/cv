@@ -1,2 +1,5 @@
-pandoc "Roberto Albino Junior - PT-BR.md" -o "Roberto Albino Junior - PT-BR.pdf"
-pandoc "Roberto Albino Junior - EN.md" -o "Roberto Albino Junior - PT-EN.pdf"
+#!/usr/bin/env bash
+set -euo pipefail
+
+pandoc "Roberto Albino Junior.md" -o "Roberto Albino Junior.docx"
+pandoc "Roberto Albino Junior.md" -o "Roberto Albino Junior.pdf" --pdf-engine=weasyprint
