@@ -104,10 +104,21 @@ This project demonstrates product ownership, architecture design, and end-to-end
 
 ## Professional Experience
 
+### Orla.tech - ANBIMA
+
+**Technical Lead**  
+Jul 2025 - Present
+
+- Acting at ANBIMA, one of the largest financial institutions in Brazil
+- Led a 3-developer team to build a file-processing architecture from scratch between Jul 2025 and Dec 2025
+- Defined and led the technical architecture using Java, AWS, Java Lambdas, Step Functions, S3, SQS, RDS, and Kubernetes
+- Led product understanding with stakeholders and translated complex requirements into clear implementation plans for the team
+- Simplified complex technical decisions and enabled faster delivery across the squad
+
 ### SPASSU - Brazilian Superior Court of Justice (STJ)
 
 **Senior Full Stack Software Developer**  
-Apr 2024 - Present
+Apr 2024 - Jul 2025
 
 - Designed and implemented backend features using Java and TypeScript
 - Improved maintainability by refactoring legacy components
