@@ -106,7 +106,7 @@ This project demonstrates product ownership, architecture design, and end-to-end
 
 ### Orla.tech - ANBIMA
 
-**Technical Lead**  
+**Senior Backend Software Developer**  
 Jul 2025 - Present
 
 - Acting at ANBIMA, one of the largest financial institutions in Brazil
