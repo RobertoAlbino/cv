@@ -1,5 +1,7 @@
 # Roberto Albino Junior
 
+*[Português (PT-BR)](README.pt-BR.md)*
+
 **Senior Backend / Full-Stack Software Engineer** | Java | Cloud | Distributed Systems
 
 - **Location:** Criciuma, Santa Catarina, Brazil (Remote-friendly)
